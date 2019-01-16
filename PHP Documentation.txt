@@ -1,0 +1,14 @@
+<?php
+/**
+* Summary.
+*
+* Details about the method (explain what it does)
+*
+*
+* @annotations like...
+* @author
+* @version
+* @since (when is it released)
+* @var (explain what it/they is/are)
+*/
+?>
